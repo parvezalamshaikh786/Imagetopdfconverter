@@ -154,7 +154,7 @@
         }
 
         .action-btn {
-            background-color: rgba(0, 0, 0, 0.7);
+            background-color: rgba(255, 0, 0, 0.7);
             color: white;
             border: none;
             width: 25px;
